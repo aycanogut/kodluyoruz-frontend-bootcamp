@@ -1,0 +1,8 @@
+{
+  "name": "kodluyoruz-frontend-bootcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aycanogut/kodluyoruz-frontend-bootcamp.git",
+  "author": "aycanogut <aycanonfire@gmail.com>",
+  "license": "MIT"
+}
