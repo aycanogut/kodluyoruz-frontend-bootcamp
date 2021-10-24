@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/aycanogut/kodluyoruz-frontend-bootcamp.git",
   "author": "aycanogut <aycanonfire@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {}
 }
